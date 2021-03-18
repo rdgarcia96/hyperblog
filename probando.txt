@@ -1,5 +1,0 @@
-Haciendo pruebas
-Primera linea git reset HEAD
-Segunda linea git rm --cached
-prueba 1
-Tercera linea git reset --soft
