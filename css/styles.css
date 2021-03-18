@@ -7,6 +7,14 @@ body {
     padding: 0;
 }
 
+#cabecera {
+    background: #44c;
+    padding: 1em;
+    font-weight: bold;
+    font-size: 20px;
+    color: #dddddd;
+}
+
 #container {
     width: 70%;
     padding: 1em;
