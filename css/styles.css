@@ -7,6 +7,19 @@ body {
     padding: 0;
 }
 
+.circulo {
+    display: inline-block;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.text {
+    display: inline-block;
+}
+
 #cabecera {
     background: #44c;
     padding: 1em;
